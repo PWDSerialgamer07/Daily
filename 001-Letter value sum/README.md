@@ -1,4 +1,5 @@
 # 001: Letter value sum
+
 Date: 27/06/2025
 Assign a value to every lowercase letters (1 to a, 26 to z), then find the sum of all the letters in a string
 
